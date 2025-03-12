@@ -1,1 +1,1 @@
-# api_typeorm by Marlo O. Gallego
+# api_typeorm by Agpalza, Joshua
